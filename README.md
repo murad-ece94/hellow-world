@@ -1,2 +1,5 @@
 # hellow-world
-hi everyone
+void main()
+{
+printf("i am here");
+}
